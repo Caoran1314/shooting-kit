@@ -8,9 +8,9 @@
 
 ## 扫码体验
 
-| 拎包开拍体验版 | SubTally 体验版 | 体验交流群 |
-| --- | --- | --- |
-| <img src="docs/lingbao-trial-qr.png" width="220" alt="拎包开拍体验版二维码" /> | <img src="docs/subtally-trial-qr.png" width="220" alt="SubTally 体验版二维码" /> | <img src="docs/wechat-group-qr.jpg" width="220" alt="体验交流群二维码" /> |
+<p align="center">
+  <img src="docs/lingbao-trial-qr.png" width="260" alt="拎包开拍体验版二维码" />
+</p>
 
 > 二维码 2026-10-31 前有效。
 
@@ -39,6 +39,14 @@
   <img src="docs/screenshots/04-tasks.png" width="260" />
   <img src="docs/screenshots/05-task-detail.png" width="260" />
 </p>
+
+## 交流群
+
+<p align="center">
+  <img src="docs/wechat-group-qr.jpg" width="260" alt="体验交流群二维码" />
+</p>
+
+> 群二维码 2026-10-31 前有效。
 
 ## 关于
 
