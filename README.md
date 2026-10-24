@@ -24,6 +24,17 @@
 
 体验版 2026-10-31 前免费开放。正式套餐通过公众号「SH漫影社」购买激活码。
 
+## 截图
+
+<p align="center">
+  <img src="docs/screenshots/01-home.png" width="240" alt="首页" />
+  <img src="docs/screenshots/03-equipment.png" width="240" alt="器材清单" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/04-tasks.png" width="240" alt="拍摄任务" />
+  <img src="docs/screenshots/05-task-detail.png" width="240" alt="任务详情" />
+</p>
+
 ## 功能
 
 - **拍摄任务**：排期、地点、参与人、携带器材，任务状态一目了然
@@ -31,14 +42,6 @@
 - **团队协作**：组长、器材管理员、成员角色与邀请码加入
 - **客户分享**：任务分享链接、客户提交拍摄需求
 - **云端同步**：微信云开发，换设备登录即可继续
-
-## 截图
-
-<p align="center">
-  <img src="docs/screenshots/01-home.png" width="260" />
-  <img src="docs/screenshots/04-tasks.png" width="260" />
-  <img src="docs/screenshots/05-task-detail.png" width="260" />
-</p>
 
 ## 交流群
 
